@@ -2,6 +2,8 @@
 
 Exercise for MSCH-C220
 
+This exercise is a chance to play with Godot's 3D capability for the first time. We will be creating a simple first-person-controlled character and adding it to a simple 3D scene.
+
 The expectations for this exercise are that you will
 
   - [ ] Fork and clone this repository
@@ -18,8 +20,6 @@ The expectations for this exercise are that you will
 ---
 
 ## Instructions
-
-This exercise is a chance to play with Godot's 3D capability for the first time. We will be creating a simple first-person-controlled character and adding it to a simple 3D scene.
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-5-1-FPS. *Edit the LICENSE and replace BL-MSCH-C220 with your full name.* Commit your changes.
 
